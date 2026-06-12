@@ -18,9 +18,10 @@ html{
     --title-color:#000;
 }
 body{
-    background: linear-gradient(to left, blue, black)
+    background: var(--background);
     color: var(--text-color);
     transition: background 0.8s, color 0.8s;
+ 
 }
 #header{
     width: 100%;
