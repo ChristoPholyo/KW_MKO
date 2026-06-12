@@ -8,9 +8,9 @@ html{
     scroll-behavior: smooth;
 }
 :root{
-    --background: #000;
-    --text-color:#fff;
-    --title-color:#fff;
+    --background: linear-gradient(to right, blue, black;
+    --text-color:white;
+    --title-color:white;
 }
 .light-theme{
     --background: linear-gradient(to right, blue, white);
