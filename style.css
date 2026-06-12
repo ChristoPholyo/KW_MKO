@@ -8,12 +8,12 @@ html{
     scroll-behavior: smooth;
 }
 :root{
-    --background: linear-gradient(to left, blue, black);
+    --background: linear-gradient(to right, blue, black);
     --text-color:white;
     --title-color:white;
 }
 .light-theme{
-    --background: linear-gradient(to left, blue, white);
+    --background: linear-gradient(to right, blue, white);
     --text-color:black;
     --title-color:black;
 }
