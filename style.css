@@ -13,9 +13,9 @@ html{
     --title-color:#fff;
 }
 .light-theme{
-    --background: linear-gradient(to left, blue, white);
-    --text-color:#000;
-    --title-color:#000;
+    --background: linear-gradient(to right, blue, white);
+    --text-color:black;
+    --title-color:black;
 }
 body{
     background: var(--background);
